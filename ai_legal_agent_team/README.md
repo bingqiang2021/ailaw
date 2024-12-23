@@ -92,3 +92,6 @@
 - 需要稳定的网络连接
 - 使用API会产生相应费用
 - 所有分析结果均为中文输出
+
+  ## 版权说明
+  该项目基于https://github.com/Shubhamsaboo/awesome-llm-apps/tree/main/ai_agent_tutorials/ai_legal_agent_team 做了中文化和二开
